@@ -1,5 +1,7 @@
 # Bowling Calculator
 
+![bowling](images/bowling.jpg)
+
 Write a JavaScript function that calculates the score of a bowling game. The function should take as an argument an array of frames that represent what was bowled. For example:
 
 ```javascript
